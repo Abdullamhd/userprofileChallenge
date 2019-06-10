@@ -4,7 +4,7 @@ i tried to implement user profile design challenge in flutter
 
 and here is the result , feel free to clone my work 
 
-the actual design in dribble :
+the actual design in dribbble :
 
 
 [credit](https://dribbble.com/shots/3265823-Designplanner-Application)
